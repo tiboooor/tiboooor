@@ -3,7 +3,7 @@
 # 
 # .NOTES 
 # ===================================================================================================================
-#  Version: 1.2
+#  Version:                 1.2
 #  Erstellt am:             21.03.2023 15:57 Uhr
 #  Erstellt von:            Tibor Blasko (UEX17050)
 #  Betrieb:                 Raiffeisen Schweiz Genossenschaft
@@ -13,7 +13,7 @@
 #  Betreuende Abteilung:    Systemtechnik
 #  Gruppe:                  Windows Server
 #  Betreuer:                Robin Calis, Stefan Aschenbrenner
-#  Dateiname:               1.2anotherJsonTest.ps1
+#  Dateiname:               FATCA.ps1
 # ===================================================================================================================
 # 
 # .DESCRIPTION
